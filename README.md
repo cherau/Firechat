@@ -1,2 +1,2 @@
 # Firechat
-Created with CodeSandbox
+Chat room for privacy
